@@ -1,0 +1,31 @@
+{
+  "name": "screaperteste",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "hawkzada",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cfonts": "^3.2.0",
+    "colors": "^1.4.0",
+    "compression": "^1.7.4",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "input": "^1.0.1",
+    "morgan": "^1.10.0",
+    "node-cron": "^3.0.2",
+    "puppeteer": "^21.4.0"
+  }
+}
