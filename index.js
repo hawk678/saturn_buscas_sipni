@@ -6,7 +6,7 @@ const compression = require('compression');
 const fetch = require('node-fetch'); // Se você estiver usando Node.js
 const colors = require("colors");
 const cfonts = require('cfonts')
-const morgan = require('morgan');
+const morgan = require('morgan'); //kkk
 const cron = require('node-cron');
 
 const app = express();
